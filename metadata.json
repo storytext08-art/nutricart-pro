@@ -1,0 +1,6 @@
+{
+  "name": "NutriCart AI",
+  "description": "An intelligent shopping cart nutritional tracker and ingredient analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
